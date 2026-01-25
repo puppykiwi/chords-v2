@@ -1,13 +1,13 @@
 # 🎵 Chords spotify player
 
-The long awaited, by a handful of people, successor to [Chords v1](https://github.com/puppykiwi/chords) is finally here! With modern themes and more secure 0auth
-log-in methods.
+The long awaited, by a handful of people, successor to [Chords v1](https://github.com/puppykiwi/chords) is finally here! With modern themes and a more secure 0auth
+log-in method.
 
 It's a lightweight, keyboard-centric Spotify client that runs entirely in your terminal. Built with Python, [Textual](https://textual.textualize.io/), and the [Spotify Web API](https://developer.spotify.com/documentation/web-api/).
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![License](https://img.shields.io/badge/License-MIT-red.svg)
+![Status](https://img.shields.io/badge/Status-Complete-green)
 
 ## ✨ Features
 
@@ -31,4 +31,4 @@ It's a lightweight, keyboard-centric Spotify client that runs entirely in your t
    git clone [https://github.com/puppykiwi/chords-v2.git](https://github.com/puppykiwi/chords-v2.git)
    cd chords-v2
 
-~Dedicated to Bandz&chords~
+Dedicated to Bandzxchords
